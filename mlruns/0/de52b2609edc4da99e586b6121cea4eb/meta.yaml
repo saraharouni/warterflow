@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/steph/Documents/LA%20PLATEFORME/DEEP%20LEARNING/mlruns/0/de52b2609edc4da99e586b6121cea4eb/artifacts
+end_time: 1715071442404
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de52b2609edc4da99e586b6121cea4eb
+run_name: selective-shrimp-676
+run_uuid: de52b2609edc4da99e586b6121cea4eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715071442280
+status: 4
+tags: []
+user_id: steph
