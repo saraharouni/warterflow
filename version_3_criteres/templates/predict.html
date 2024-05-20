@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        .potable {
+            color: blue;
+            text-align: center;
+        }
+        .non-potable {
+            color: red;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+<header>
+    <center><h2>Résultat de la prédiction</h2></center>
+</header>
+
+<div class="container">
+    {% if prediction_result == 'Potable' %}
+    <h2 class="potable">{{ prediction_result }}</h2>
+    {% elif prediction_result == 'Non Potable' %}
+    <h2 class="non-potable">{{ prediction_result }}</h2>
+    {% endif %}
+    <center><h4>Histogrammes des variables :</h4></center>
+    <img src="data:image/png;base64,{{ plot_url }}" alt="Histogrammes">
+</div>
+
+</body>
+</html>
