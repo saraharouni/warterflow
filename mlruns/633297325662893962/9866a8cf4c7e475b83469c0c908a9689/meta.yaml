@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/633297325662893962/9866a8cf4c7e475b83469c0c908a9689/artifacts
+end_time: 1716648319628
+entry_point_name: ''
+experiment_id: '633297325662893962'
+lifecycle_stage: active
+run_id: 9866a8cf4c7e475b83469c0c908a9689
+run_name: random_forest_Standardscaler
+run_uuid: 9866a8cf4c7e475b83469c0c908a9689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716648318151
+status: 3
+tags: []
+user_id: sarah.harouni

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/754169647034178443/3839b032c3bd46819deefe1dcfe0d76b/artifacts
+end_time: 1716627823264
+entry_point_name: ''
+experiment_id: '754169647034178443'
+lifecycle_stage: active
+run_id: 3839b032c3bd46819deefe1dcfe0d76b
+run_name: logistic_regression_Standardscaler
+run_uuid: 3839b032c3bd46819deefe1dcfe0d76b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716627821602
+status: 4
+tags: []
+user_id: sarah.harouni

@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/250444072909721798
+creation_time: 1716626110941
+experiment_id: '250444072909721798'
+last_update_time: 1716632088691
+lifecycle_stage: deleted
+name: dummy_classifier
+tags: {}
