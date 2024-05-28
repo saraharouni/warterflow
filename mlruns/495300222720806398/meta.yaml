@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/495300222720806398
+creation_time: 1716650887461
+experiment_id: '495300222720806398'
+last_update_time: 1716650887461
+lifecycle_stage: active
+name: voting_classifier

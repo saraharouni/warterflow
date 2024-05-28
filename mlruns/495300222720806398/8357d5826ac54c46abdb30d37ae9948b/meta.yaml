@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/495300222720806398/8357d5826ac54c46abdb30d37ae9948b/artifacts
+end_time: 1716651092277
+entry_point_name: ''
+experiment_id: '495300222720806398'
+lifecycle_stage: active
+run_id: 8357d5826ac54c46abdb30d37ae9948b
+run_name: voting_classifier_Standardscaler
+run_uuid: 8357d5826ac54c46abdb30d37ae9948b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716651090555
+status: 3
+tags: []
+user_id: sarah.harouni

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/250444072909721798/f9ee4abfa93641ac82485025a2315bc4/artifacts
+deleted_time: 1716632088691
+end_time: 1716626112460
+entry_point_name: ''
+experiment_id: '250444072909721798'
+lifecycle_stage: deleted
+run_id: f9ee4abfa93641ac82485025a2315bc4
+run_name: dummy_classifier_Standardscaler
+run_uuid: f9ee4abfa93641ac82485025a2315bc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716626110952
+status: 4
+tags: []
+user_id: sarah.harouni
