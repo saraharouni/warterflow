@@ -14,10 +14,13 @@ Cependant à la suite d’une première analyse des données et à l'étude des 
 
 Il y a plusieurs explications à ceci selon nous :  
 
--Un mauvais étalonnage des capteurs
--Un mauvais protocole concernant la prise de mesure
--Une erreur humaine lors de la saisi ou de la transmission des données
--Une anonymisation des données qui rend le dataset quelque peu erroné sur certains points
+-Un mauvais étalonnage des capteurs  
+
+-Un mauvais protocole concernant la prise de mesure  
+
+-Une erreur humaine lors de la saisi ou de la transmission des données  
+
+-Une anonymisation des données qui rend le dataset quelque peu erroné sur certains points  
 
 Nous nous sommes donc rendu compte que la labélisation est erronée compte tenu des normes sur la potabilité de l'eau.
 De plus différentes mesures ayant des liens physiques entre elle nous montre que les données semblent erronées.
