@@ -77,8 +77,3 @@ Nous avons utilisé plusieurs modèles de classification pour estimer la potabil
     * précision : 0.76
     
 Nous décidons donc d'utiliser le Random forest pour notre application.
-
-        
-
-
-![image](https://github.com/saraharouni/warterflow/assets/11461825/82515d8a-d694-4a32-9bf0-13b41ea4c3b6)
