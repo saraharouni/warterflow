@@ -12,7 +12,8 @@ Au cours de ce projet nous avons tenté trois approches différentes vis à vis 
 Nous avons un dataset à notre disposition qui nous semble au premier coup d'œil assez complet et avec des données pertinentes compte tenu de l'objectifs de notre projet.
 Cependant à la suite d’une première analyse des données et à l'étude des normes internationale concernant la potabilité de l'eau nous nous rendons compte que le dataset semble bancale.
 
-Il y a plusieurs explications à ceci selon nous :
+Il y a plusieurs explications à ceci selon nous :  
+
 -Un mauvais étalonnage des capteurs
 -Un mauvais protocole concernant la prise de mesure
 -Une erreur humaine lors de la saisi ou de la transmission des données
